@@ -19,6 +19,9 @@ Removed. Please see [/contrib/bitrpc](/contrib/bitrpc).
 Repository Tools
 ---------------------
 
+### [Auto-compile](/contrib/auto-compile) ###
+Bash scripts to help non-technical or new users to compile Bitcoin from source for their native OS.
+
 ### [Debian](/contrib/debian) ###
 Contains files used to package bitcoind/bitcoin-qt
 for Debian-based Linux systems. If you compile bitcoind/bitcoin-qt yourself, there are some useful files here.
